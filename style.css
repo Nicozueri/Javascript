@@ -1,0 +1,105 @@
+/*
+Autor: Nico Jäger
+Datum: 19.11.2025
+*/
+
+
+/* Clock */
+.clock {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 7px solid rgb(130, 118, 118);
+    background-color: rgb(228, 220, 220); 
+    position: relative;
+    margin: 40px auto;
+}
+
+
+/* Outer face */
+.outer-clock-face {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    position: relative;
+}
+
+/* Inner face */
+.inner-clock-face {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+/* All hands */
+.hand {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform-origin: bottom;
+    transform: translateX(-50%) rotate(0deg);
+    background: rgb(73, 71, 71);
+}
+
+/* Hour hand */
+.hour-hand {
+    width: 6px;
+    height: 70px;
+}
+
+/* Minute hand */
+.min-hand {
+    width: 4px;
+    height: 100px;
+}
+
+/* Second hand */
+.second-hand {
+    width: 2px;
+    height: 120px;
+    background: red;
+}
+
+/* First Marking */
+.marking-one {
+    background-color: black;
+    width: 5px;
+    height: 25px;
+    position: fixed;
+    top: 40px;
+    left: 635px;
+}
+
+/* The second Marking */
+.marking-two {
+    background-color: black;
+    width: 5px;
+    height: 25px;
+    position: fixed;
+    top: 325px;
+    left: 635px;
+}
+/* The third Marking */
+.marking-three {
+    background-color: black;
+    width: 25px;    
+    height: 5px;
+    position: fixed;
+    top: 185px;
+    left: 485px;
+}
+/* The fourth Marking */
+.marking-four {
+    background-color: black;
+    width: 25px;
+    height: 5px;
+    position: fixed;
+    top: 185px;
+    left: 775px;
+}
+/* Background */
+body {
+    background-color: rgb(131, 137, 131);
+}
+
+
