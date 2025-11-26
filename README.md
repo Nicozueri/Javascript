@@ -1,4 +1,4 @@
-# <HIER PROJEKTNAME EINFÜGEN>  
+# Analoge Uhr
 **Autor:** Nico Jäger  
 **Datum:** 26.11.2025
 
