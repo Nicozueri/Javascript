@@ -34,5 +34,8 @@ Das Projekt ist relevant, weil es hilft, **Java-Script besser kennenzulernen**.
 node.js installieren. 
 https://nodejs.org/en/download
 
+![Analoge Uhr](bilder/uhr.png)
+
+
 
 
