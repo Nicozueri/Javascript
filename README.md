@@ -1,9 +1,38 @@
-# Analog Clock Project
-This project is a simple analog clock built with HTML, CSS, and JavaScript.
-The clock updates every second and rotates each hand according to the real time of the system.
-The clock shows the current time using three hands:
+# <HIER PROJEKTNAME EINFÜGEN>  
+**Autor:** Nico Jäger  
+**Datum:** 26.11.2025
 
-- Hour hand
-- Minute hand
-- Second hand
+---
+
+## 📝 Kurzbeschreibung  
+Dieses Projekt behandelt das Thema **analoge Uhr**.  
+Es dient dazu, eine Analoge Uhr zu erstellen mit Javascript.
+
+---
+
+## 📊 Überblick (Projekt-Status)  
+Dieses Projekt befindet sich aktuell im Status:  
+**👉 Fertig **
+
+### 🎯 Ziele des Projekts  
+- Einfache analoge Uhr
+- Zeit wird richtig angezeigt
+- Sekundenzeiger bewegen sich im Sekundentakt
+
+
+### ✅ Relevanz  
+Das Projekt ist relevant, weil es hilft, **Java-Script besser kennenzulernen**.
+
+---
+
+## ⚙️ Installation  
+
+### Voraussetzungen  
+- Node.js 
+
+### Installation (Beispiel)  
+node.js installieren. 
+https://nodejs.org/en/download
+
+
 
